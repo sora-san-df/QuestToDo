@@ -1,0 +1,29 @@
+.TodoSearch {
+    background: #F9FBFC;
+    margin: 0 24px;
+    height: 64px;
+    width: calc(100% - 62px);
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;;
+    font-weight: 400;
+    color: #1E1E1F;
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    outline:none;
+  }
+  
+  .TodoSearch::placeholder {
+    color: #A5A5A5;
+    font-family: 'Silkscreen', cursive;
+    font-weight: 400;
+  }
+  
+ /*  .TodoSearch:focus {
+    outline-color: #61DAFA;
+  } */
+  

@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ModalBackground{
+    background:  rgba(32,35,41,.8);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: -15px;
+    right: -10px;
+    left: -10px;
+    bottom: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
