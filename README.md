@@ -5,3 +5,11 @@ QuestTodo is a web that is not like a casual todo(right now it is but you got th
 and the more tasks you complete the less health will have! with some basic animations or colors added. 
 
 of course, this project was made during the course of introduction to react js by platzi! this 4 days i've learned a lot about react js, i still need to learn a lot ut it was fun(an stressful too!) C: 
+
+here are some images of the app!
+![imagen](https://user-images.githubusercontent.com/83962875/194460980-949c0304-d0bd-4e9e-9865-7b74191aedc7.png)
+
+![imagen](https://user-images.githubusercontent.com/83962875/194461026-76680f5e-5dbc-4e9e-84be-bb355bd9d299.png)
+
+![imagen](https://user-images.githubusercontent.com/83962875/194461111-4c491d06-93e8-4fea-a033-3ce96bbb88fe.png)
+
