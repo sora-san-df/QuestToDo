@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.878f8030.css",
-    "main.js": "/my-app/static/js/main.3d3d187d.js",
-    "index.html": "/my-app/index.html",
-    "main.878f8030.css.map": "/my-app/static/css/main.878f8030.css.map",
-    "main.3d3d187d.js.map": "/my-app/static/js/main.3d3d187d.js.map"
+    "main.css": "/curso-react/my-app/static/css/main.878f8030.css",
+    "main.js": "/curso-react/my-app/static/js/main.3d3d187d.js",
+    "index.html": "/curso-react/my-app/index.html",
+    "main.878f8030.css.map": "/curso-react/my-app/static/css/main.878f8030.css.map",
+    "main.3d3d187d.js.map": "/curso-react/my-app/static/js/main.3d3d187d.js.map"
   },
   "entrypoints": [
     "static/css/main.878f8030.css",
